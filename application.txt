@@ -27,3 +27,7 @@ Customer Support
 - Customers can view support information.
 - Support requests can be submitted.
 
+Customer Support
+- Customers can view support information.
+- Support requests can be submitted.
+
