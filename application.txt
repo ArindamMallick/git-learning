@@ -38,3 +38,6 @@ Customer Notifications
 
 let's do it just for stash check in diff branches
 
+
+add to cart
+- cart is added in app
