@@ -21,7 +21,7 @@ Wishlist
 
 Order Tracking
 - Customers can view order status.
-- Order status is updated as the order progresses.
+- Order status is displayed using standardized status values.
 
 Customer Support
 - Customers can view support information.
