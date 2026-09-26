@@ -24,4 +24,7 @@ Appointment History
 Clinical Access
 - Authorized clinical users can access required patient information.
 - Access is restricted according to assigned permissions.
+Audit Management
+- Patient information access can be recorded.
+- Administrative actions can be reviewed for audit purposes.
 
