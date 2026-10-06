@@ -28,3 +28,7 @@ Audit Management
 - Patient information access can be recorded.
 - Administrative actions can be reviewed for audit purposes.
 
+Appointment Notifications
+- Patients can receive appointment notifications.
+- Notification status can be recorded.
+
