@@ -36,3 +36,7 @@ Appointment Status
 - Appointments canhave adefined lifecycle status.
 - Appointment status changes canbe record
 
+
+# AddPatient DataProtectionto application.tx
+
+
